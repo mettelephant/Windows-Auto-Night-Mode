@@ -14,7 +14,7 @@ FileDescription = "Auto Dark Mode Updater"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rand = "0.9.2"
+rand = "0.9.3"
 fern = "0.7.1"
 log = "0.4.27"
 chrono = "0.4.41"
